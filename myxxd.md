@@ -287,4 +287,4 @@ The command line provides a very easy solution to a non-terminating program: `CT
 
 ## I need a debugger!
 
-The debugger is `gdb` and it is available from the command line if needed. This [primer](../gdb-primer.md) is a good starting point. There are many good online resources as well.
+The debugger is `gdb` and it is available from the command line if needed. This [primer](other%20files%3F/gdb-primer.md) is a good starting point. There are many good online resources as well.

@@ -257,7 +257,7 @@ The code again uses the pre-processor to conditionally exclude code. In both cas
 
 The pre-processor is being used to enable `printf` debugging. It turns **off** the `stdout` output of the `bmp` image file, and it turns **on** the `printf` statements. It makes it so that the `printf` statements are easy to see and are not cluttered with the binary image output.
 
-Add other `printf` statements as needed for testing and debugging. As before, `gdb` is a powerful tool for debugging that is more efficient because it does not require additional code. See the [primer](../gdb-primer.md) to get started with `gdb`.
+Add other `printf` statements as needed for testing and debugging. As before, `gdb` is a powerful tool for debugging that is more efficient because it does not require additional code. See the [primer](../other%20files%3F/gdb-primer.md) to get started with `gdb`.
 
 # Good Programming Style
 

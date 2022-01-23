@@ -3,4 +3,4 @@ project(myxxd C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(myxxd main.c)
+add_executable(myxxd myxxd.c)
